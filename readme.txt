@@ -6,7 +6,8 @@ This is an attempt to make education and knowledge free for all. Edtech companie
 
 I feel these paid courses are unnecessary and predatory in nature, since wonderful study materials are available for free on the internet. But most parents fall into this guilt-trap and end up buying the packages for their kids.
 
-SOLUTION: We create a platform that will act as a dictionary to online study materials that are freely available on the internet.
+SOLUTION:
+We create a platform that will act as a dictionary to online study materials that are freely available on the internet.
 
 Kids can choose their class, the subject they want to learn, and the platform will automatically display a list of resources(websites/videos/articles) related to that subject and chapter.
 
