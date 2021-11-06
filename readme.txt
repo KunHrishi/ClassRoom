@@ -9,7 +9,7 @@ I feel these paid courses are unnecessary and predatory in nature, since wonderf
 SOLUTION:
 We create a platform that will act as a dictionary to online study materials that are freely available on the internet.
 
-Kids can choose their class, the subject they want to learn, and the platform will automatically display a list of resources(websites/videos/articles) related to that subject and chapter.
+Kids can choose their class, the subject they want to learn with the language of their choice, and the platform will automatically display a list of resources(websites/videos/articles) related to that subject and chapter.
 
 About the project:
 
